@@ -1,0 +1,8 @@
+server:
+  port: 8629
+
+spring:
+  application:
+    name: video
+  profiles:
+    active: default
